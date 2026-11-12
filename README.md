@@ -1,1 +1,1 @@
-# hand-ma
+# hangman
